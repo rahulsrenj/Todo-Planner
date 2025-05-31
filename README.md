@@ -1,6 +1,6 @@
 # 📝 To-Do Planner App
 
-An Android app built with Java and MVVM architecture that lets users add, view, edit, and delete daily tasks using Room Database, LiveData, ViewModel, and Data Binding.
+An Android app built with Java and MVVM architecture that lets users add, view, edit, and delete daily tasks using Room Database, LiveData, ViewModel, Data Binding and Recycler View.
 
 ---
 
