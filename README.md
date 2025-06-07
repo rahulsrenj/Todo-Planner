@@ -58,4 +58,5 @@ An Android app built with Java and MVVM architecture that lets users add, view, 
 
 1. Clone the repo:
    ```bash
-  https://github.com/rahulsrenj/Todo-Planner---MVVM---RoomDB--Data-Binding.git
+    https://github.com/rahulsrenj/Todo-Planner---MVVM---RoomDB--Data-Binding.git
+
